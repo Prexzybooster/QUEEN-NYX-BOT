@@ -27,7 +27,7 @@ global.author = "Precious Ayomide"
 global.creator = "2349159895444@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["254791164488"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
